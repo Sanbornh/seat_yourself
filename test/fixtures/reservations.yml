@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: 2014-04-21 16:57:52
+  party_size: 1
+
+two:
+  time: 2014-04-21 16:57:52
+  party_size: 1
